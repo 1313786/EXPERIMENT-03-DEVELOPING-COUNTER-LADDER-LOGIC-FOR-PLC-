@@ -2,8 +2,8 @@
 
 ### Name: IRFAN KHAN
 ### Register Number: 212224230097
-### Department: CSE - IoT  
-### Year: 3
+### Department: AIDS 
+### Year: 1
 
 ### Aim
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
